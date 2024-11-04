@@ -1,6 +1,9 @@
 Static website for the Canal Marina at 360 W Ewing St in Seattle WA
 
 Credits:
+  Author: 
+	  Gregory Buchanan | https://github.com/euler-room
+
   Template:
 	  Derived from Dimension template by HTML5 UP
     html5up.net | @ajlkn

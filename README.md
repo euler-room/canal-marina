@@ -1,5 +1,6 @@
 # Canal Marina
  Static website for [Canal Marina](https://canal-marina.com) at 360 W Ewing St in Seattle WA
+ <a href="http://canal-marina.com" target="_blank">Canal Marina</a>
 
 ## Credits:
 ###  Author: 

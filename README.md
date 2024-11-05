@@ -6,7 +6,7 @@ Gregory Buchanan | Github: [euler-room](https://github.com/euler-room)
 
 ### Template:
 - Derived from Dimension template by HTML5 UP
-- [html5up.net](https://html5up.net) | @ajlkn
+- [html5up.net](https://html5up.net) | [@ajlkn](https://x.com/ajlkn)
 - Free for personal and commercial use under the [CCA 3.0 license](https://html5up.net/license)
 
 ### Demo Images:

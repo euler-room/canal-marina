@@ -8,7 +8,7 @@ Gregory Buchanan | Github: [euler-room](https://github.com/euler-room)
 ### Template:
 - Derived from Dimension template by HTML5 UP
 - html5up.net | @ajlkn
-- Free for personal and commercial use under the [CCA 3.0 license](html5up.net/license)
+- Free for personal and commercial use under the [CCA 3.0 license](https://html5up.net/license)
 
 ### Demo Images:
 Unsplash (unsplash.com)
@@ -17,5 +17,5 @@ Unsplash (unsplash.com)
 - Font Awesome (fontawesome.io)
 
 ### Other:
-- [jQuery](jquery.com)
-- [Responsive Tools](github.com/ajlkn/responsive-tools)
+- [jQuery](https://jquery.com)
+- [Responsive Tools](http://github.com/ajlkn/responsive-tools)

@@ -6,14 +6,14 @@ Gregory Buchanan | Github: [euler-room](https://github.com/euler-room)
 
 ### Template:
 - Derived from Dimension template by HTML5 UP
-- html5up.net | @ajlkn
+- [html5up.net](html5up.net) | @ajlkn
 - Free for personal and commercial use under the [CCA 3.0 license](https://html5up.net/license)
 
 ### Demo Images:
-Unsplash (unsplash.com)
+[Unsplash](https://unsplash.com)
 
 ### Icons:
-- Font Awesome (fontawesome.io)
+- [Font Awesome](https://fontawesome.io)
 
 ### Other:
 - [jQuery](https://jquery.com)
